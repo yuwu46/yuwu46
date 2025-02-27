@@ -15,9 +15,6 @@
 <!-- Updated layout for Stats and Streak -->
 <div style="display: flex; justify-content: space-between; width: 80%; margin: 0 auto;">
   <div style="flex: 1; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=yuwu46&theme=ambient_gradient&show_icons=true&height=150" alt="GitHub Stats" style="width: 50%; object-fit: cover; height: auto;">
-  </div>
-  <div style="flex: 1; text-align: center;">
     <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical" alt="GitHub Streak" style="width: 50%; object-fit: cover; height: auto;">
   </div>
 </div>
