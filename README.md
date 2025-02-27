@@ -1,14 +1,5 @@
-## Hi there 👋
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={HI THERE!!!}&fontSize=90&fontAlign=50&fontAlignY=30&desc={向你学习ʕ•ﻌ•ʔ}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
-
-<p align="center">
-![Metrics](/github-metrics.svg) 
-</p>
-
-<p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwu46&theme=ambient_gradient&show_icons=true)  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={HI%20 THERE!!!}&fontSize=90&fontAlign=50&fontAlignY=30&desc={向你学习ʕ•ﻌ•ʔ}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <p align="center">
