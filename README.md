@@ -1,6 +1,7 @@
 ## Hi there 👋
+![Metrics](/github-metrics.svg)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwu46&theme=ambient_gradient&show_icons=true)  
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuwu46)
+
 
 <!--
 **yuwu46/yuwu46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
