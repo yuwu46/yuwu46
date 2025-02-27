@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%5E%3E%E2%B8%9D%E2%B8%9D%E2%B8%9D%E2%B8%9D%3C%5E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=3667FFE7&center=true&vCenter=true&width=435&lines=%5E%3E%E2%B8%9D%E2%B8%9D%E2%B8%9D%E2%B8%9D%3C%5E" alt="Typing SVG" /></a>
 </p>
 
-<p align="center" style="height: 300px">
+<p align="center">
   <img src="/github-metrics.svg?height=150" alt="Metrics" style="height: 150px">
 </p>
 <p align="center">
