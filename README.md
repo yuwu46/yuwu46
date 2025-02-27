@@ -1,7 +1,11 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=Progress%20Together!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>  
-
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics">
+  <br>  <!-- 添加换行分隔两个图表 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yuwu46&theme=ambient_gradient&show_icons=true" alt="Anurag's GitHub stats">
+</p>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
 </p>
