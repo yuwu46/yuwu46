@@ -4,17 +4,22 @@
 
 <hr style="width: 100%; margin: 20px auto; border: 0; height: 1px; background: rgba(255,255,255,0.2);">
 
-<div style="width: 100%; margin: 0 auto; text-align: left; color: #FFFFFF; font-size: 40px; font-weight: bold; line-height: 1.6;">
-  🎓・Graduate Student @ Beijing Institute of Technology<br>
-  🏥・School of Medical Technology<br>
-  🔬・Biomedical Engineering Major<br><br>
-  
-  📊・Research Focus: Medical Image Processing<br>
-  🖥️・Developing AI Solutions for Medical Imaging<br><br>
-  
-  🤖・Currently Learning:<br>
-  🧠・AI-based Medical Image Segmentation<br>
-  🌐・Deep Learning in Healthcare
+<div style="width: 100%; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; color: #FFFFFF; font-size: 22px; font-weight: bold; line-height: 1.6;">
+  <div style="flex: 1; text-align: left;">
+    🎓・Graduate Student @ Beijing Institute of Technology<br>
+    🏥・School of Medical Technology<br>
+    🔬・Biomedical Engineering Major<br><br>
+    
+    📊・Research Focus: Medical Image Processing<br>
+    🖥️・Developing AI Solutions for Medical Imaging<br><br>
+    
+    🤖・Currently Learning:<br>
+    🧠・AI-based Medical Image Segmentation<br>
+    🌐・Deep Learning in Healthcare
+  </div>
+  <div style="flex-shrink: 0;">
+    <img src="https://github.com/yuwu46/raw/main/image/yangtuo.gif" alt="Yangtuo GIF" style="max-width: 200px; height: auto;">
+  </div>
 </div>
 
 <hr style="width: 100%; margin: 20px auto; border: 0; height: 1px; background: rgba(255,255,255,0.2);">
