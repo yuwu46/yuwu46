@@ -18,7 +18,7 @@
     🌐・Deep Learning in Healthcare
   </div>
   <div style="flex-shrink: 0;">
-    <img src="https://github.com/yuwu46/raw/main/image/yangtuo.gif" alt="Yangtuo GIF" style="max-width: 200px; height: auto;">
+    <img src="https://github.com/yuwu46/yuwu46/blob/main/image/yangtuo.gif" alt="Yangtuo GIF" style="max-width: 200px; height: auto;">
   </div>
 </div>
 
