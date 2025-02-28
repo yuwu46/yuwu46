@@ -4,7 +4,7 @@
 
 <hr style="width: 100%; margin: 20px auto; border: 0; height: 1px; background: rgba(255,255,255,0.2);">
 
-<div style="width: 100%; margin: 0 auto; text-align: left; color: #FFFFFF; font-size: 18px; line-height: 1.6;">
+<div style="width: 100%; margin: 0 auto; text-align: left; color: #FFFFFF; font-size: 24px; font-weight: bold; line-height: 1.6;">
   🎓・Graduate Student @ Beijing Institute of Technology<br>
   🏥・School of Medical Technology<br>
   🔬・Biomedical Engineering Major<br><br>
