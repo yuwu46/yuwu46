@@ -2,18 +2,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=Progress%20Together!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" style="width: 80%; object-fit: cover; height: auto;">
 </p>
 
-<p align="center" style="font-size: 20px; color: #FFFFFF; margin: 20px 0;">
-  🎓 Graduate student @ Beijing Institute of Technology<br>
-  🏥 School of Medical Technology<br>
-  🔬 Majoring in Biomedical Engineering<br><br>
-  
-  📊 Research focus: Medical Image Processing<br>
-  🖥️ Developing AI solutions for diagnostic imaging<br><br>
-  
-  🤖 Currently learning:<br>
-  🧠 AI-powered Medical Image Segmentation<br>
-  🌐 Deep Learning Applications in Healthcare
-</p>
+<hr style="width: 80%; margin: 20px auto; border: 0; height: 1px; background: rgba(255,255,255,0.2);">
+
+<div align="center" style="width: 80%; margin: 0 auto;">
+  <div style="text-align: left; color: #FFFFFF; font-size: 18px; line-height: 1.6;">
+    🎓・Graduate Student @ Beijing Institute of Technology<br>
+    🏥・School of Medical Technology<br>
+    🔬・Biomedical Engineering Major<br><br>
+    
+    📊・Research Focus: Medical Image Processing<br>
+    🖥️・Developing AI Solutions for Medical Imaging<br><br>
+    
+    🤖・Currently Learning:<br>
+    &nbsp;&nbsp;🧠・AI-based Medical Image Segmentation<br>
+    &nbsp;&nbsp;🌐・Deep Learning in Healthcare
+  </div>
+</div>
+
+<hr style="width: 80%; margin: 20px auto; border: 0; height: 1px; background: rgba(255,255,255,0.2);">
 
 <p align="center">
   <a href="https://git.io/typing-svg">
