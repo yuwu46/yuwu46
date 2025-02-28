@@ -5,7 +5,8 @@
 <hr style="width: 100%; margin: 20px auto; border: 0; height: 1px; background: rgba(255,255,255,0.2);">
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; width: 80%; margin: 0 auto; background-image: url('https://github.com/yuwu46/yuwu46/raw/main/image/yangtuo.gif'); background-size: cover; background-position: center; padding: 20px; color: white;">
-  <div style="flex: 1; text-align: left; font-size: 22px; font-weight: bold; color: #FFFFFF; margin-right: 20px;">
+  <!-- 左边的文字部分 -->
+  <div style="flex: 1; text-align: left; font-size: 22px; font-weight: bold;">
     <div>
       🎓・Graduate Student @ Beijing Institute of Technology<br>
       🏥・School of Medical Technology<br>
