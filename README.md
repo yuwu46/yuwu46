@@ -4,8 +4,8 @@
 
 <hr style="width: 100%; margin: 20px auto; border: 0; height: 1px; background: rgba(255,255,255,0.2);">
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 80%; margin: 0 auto;">
-  <div style="flex: 1; text-align: left; font-size: 22px; font-weight: bold; color: #FFFFFF;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; width: 80%; margin: 0 auto;">
+  <div style="flex: 1; text-align: left; font-size: 22px; font-weight: bold; color: #FFFFFF; margin-right: 20px;">
     <div>
       🎓・Graduate Student @ Beijing Institute of Technology<br>
       🏥・School of Medical Technology<br>
@@ -21,8 +21,8 @@
       🌐・Deep Learning in Healthcare
     </div>
   </div>
-  <div style="flex-shrink: 0; padding-left: 20px;">
-    <img src="https://github.com/yuwu46/yuwu46/raw/main/image/yangtuo.gif" alt="Yangtuo GIF" style="max-width: 200px; height: auto;">
+  <div style="flex-shrink: 0; padding-left: 20px; max-width: 440px;">
+    <img src="https://github.com/yuwu46/yuwu46/raw/main/image/yangtuo.gif" alt="Yangtuo GIF" style="width: 100%; height: auto;">
   </div>
 </div>
 
