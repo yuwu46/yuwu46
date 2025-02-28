@@ -6,19 +6,23 @@
 
 <div style="width: 100%; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; color: #FFFFFF; font-size: 22px; font-weight: bold; line-height: 1.6;">
   <div style="flex: 1; text-align: left;">
-    🎓・Graduate Student @ Beijing Institute of Technology<br>
-    🏥・School of Medical Technology<br>
-    🔬・Biomedical Engineering Major<br><br>
-    
-    📊・Research Focus: Medical Image Processing<br>
-    🖥️・Developing AI Solutions for Medical Imaging<br><br>
-    
-    🤖・Currently Learning:<br>
-    🧠・AI-based Medical Image Segmentation<br>
-    🌐・Deep Learning in Healthcare
+    <div>
+      🎓・Graduate Student @ Beijing Institute of Technology<br>
+      🏥・School of Medical Technology<br>
+      🔬・Biomedical Engineering Major<br><br>
+    </div>
+    <div>
+      📊・Research Focus: Medical Image Processing<br>
+      🖥️・Developing AI Solutions for Medical Imaging<br><br>
+    </div>
+    <div>
+      🤖・Currently Learning:<br>
+      🧠・AI-based Medical Image Segmentation<br>
+      🌐・Deep Learning in Healthcare
+    </div>
   </div>
-  <div style="flex-shrink: 0;">
-    <img src="https://github.com/yuwu46/yuwu46/blob/main/image/yangtuo.gif" alt="Yangtuo GIF" style="max-width: 200px; height: auto;">
+  <div style="flex-shrink: 0; padding-left: 20px;">
+    <img src="https://github.com/yuwu46/yuwu46/raw/main/image/yangtuo.gif" alt="Yangtuo GIF" style="max-width: 200px; height: auto;">
   </div>
 </div>
 
