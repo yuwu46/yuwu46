@@ -4,19 +4,17 @@
 
 <hr style="width: 80%; margin: 20px auto; border: 0; height: 1px; background: rgba(255,255,255,0.2);">
 
-<div align="center" style="width: 80%; margin: 0 auto;">
-  <div style="text-align: left; color: #FFFFFF; font-size: 18px; line-height: 1.6;">
-    🎓・Graduate Student @ Beijing Institute of Technology<br>
-    🏥・School of Medical Technology<br>
-    🔬・Biomedical Engineering Major<br><br>
-    
-    📊・Research Focus: Medical Image Processing<br>
-    🖥️・Developing AI Solutions for Medical Imaging<br><br>
-    
-    🤖・Currently Learning:<br>
-    &nbsp;&nbsp;🧠・AI-based Medical Image Segmentation<br>
-    &nbsp;&nbsp;🌐・Deep Learning in Healthcare
-  </div>
+<div style="width: 80%; margin: 0 auto; text-align: left; color: #FFFFFF; font-size: 18px; line-height: 1.6;">
+  🎓・Graduate Student @ Beijing Institute of Technology<br>
+  🏥・School of Medical Technology<br>
+  🔬・Biomedical Engineering Major<br><br>
+  
+  📊・Research Focus: Medical Image Processing<br>
+  🖥️・Developing AI Solutions for Medical Imaging<br><br>
+  
+  🤖・Currently Learning:<br>
+  &nbsp;&nbsp;🧠・AI-based Medical Image Segmentation<br>
+  &nbsp;&nbsp;🌐・Deep Learning in Healthcare
 </div>
 
 <hr style="width: 80%; margin: 20px auto; border: 0; height: 1px; background: rgba(255,255,255,0.2);">
@@ -46,6 +44,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" style="width: 80%; object-fit: cover; height: auto;">
 </p>
+
 
 
 
