@@ -2,6 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=Progress%20Together!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" style="width: 80%; object-fit: cover; height: auto;">
 </p>
 
+<p align="center" style="font-size: 20px; color: #FFFFFF; margin: 20px 0;">
+  🎓 Graduate student @ Beijing Institute of Technology<br>
+  🏥 School of Medical Technology<br>
+  🔬 Majoring in Biomedical Engineering<br><br>
+  
+  📊 Research focus: Medical Image Processing<br>
+  🖥️ Developing AI solutions for diagnostic imaging<br><br>
+  
+  🤖 Currently learning:<br>
+  🧠 AI-powered Medical Image Segmentation<br>
+  🌐 Deep Learning Applications in Healthcare
+</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&pause=1000&color=FFFFFF&background=0B77FFAF&center=true&vCenter=true&width=435&lines=Ciallo%EF%BD%9E(%E2%88%A0%E3%83%BB%CF%89%3C+)%E2%8C%92%E2%98%85" alt="Typing SVG" style="width: 80%; object-fit: cover; height: auto;">
