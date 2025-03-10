@@ -56,6 +56,12 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuwu46&theme=chartreuse-dark" 
+       alt="Activity Graph" 
+       style="width: 80%; height: auto; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin: 20px auto;">
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" style="width: 100%; object-fit: cover; height: auto;">
 </p>
 
