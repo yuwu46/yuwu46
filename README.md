@@ -40,7 +40,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuwu46&theme=dark&show_icons=true&height=150" alt="GitHub Stats" style="width: 100%; object-fit: cover; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuwu46&theme=dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub Stats&bg_color=1a1a2e&text_color=ffffff&icon_color=9b59b6" 
+       alt="GitHub Stats" 
+       style="width: 100%; max-width: 600px; height: auto; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </p>
 
 <p align="center">
