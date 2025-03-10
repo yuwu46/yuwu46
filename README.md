@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=yuwu46&theme=ambient-gradient&date_format=YYYY-MM-DD&timezone=Asia/Shanghai" 
+    <img src="https://streak-stats.demolab.com?user=yuwu46&theme=ambient-gradient&timezone=Asia/Shanghai" 
          alt="GitHub Contribution Streak" 
          style="width: 80%; height: auto; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin: 20px auto;">
   </a>
