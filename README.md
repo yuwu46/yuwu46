@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuwu46&theme=ambient_gradient&show_icons=true&height=150" alt="GitHub Stats" style="width: 100%; object-fit: cover; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuwu46&theme=dark&show_icons=true&height=150" alt="GitHub Stats" style="width: 100%; object-fit: cover; height: auto;">
 </p>
 
 <p align="center">
