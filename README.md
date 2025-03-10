@@ -39,13 +39,13 @@
   <img src="/github-metrics.svg?height=150" alt="Metrics" style="width: 100%; object-fit: cover; height: auto;">
 </p>
 
-<div style="text-align: center; margin: 20px 0;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" 
-         alt="GitHub Stats" 
-         style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<p align="center">
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=yuwu46&theme=blue-green&date_format=YYYY-MM-DD&timezone=Asia/Shanghai" 
+         alt="GitHub Contribution Streak" 
+         style="width: 100%; max-width: 600px; height: auto; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin: 20px 0;">
   </a>
-</div>
+</p>
 
 <p align="center">
   <picture>
