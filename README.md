@@ -9,6 +9,10 @@
   <a href="https://github.com/yuwu46?tab=repositories"><img src="https://img.shields.io/badge/Open%20source-PaddlePaddle%20contributor-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="PaddlePaddle contributor" /></a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3400&pause=1000&color=0284C7&center=true&vCenter=true&width=760&height=38&lines=AI+Infrastructure+%C2%B7+GPU+Kernels+%C2%B7+Reliable+Deep+Learning+Systems;Medical+Image+Processing+%C2%B7+AI-Assisted+Healthcare" alt="Technical focus" />
+</p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -31,6 +35,10 @@
 </table>
 
 ## Cumulative Contribution Record
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuwu46&show_icons=true&include_all_commits=true&hide=issues,prs,contribs&hide_rank=true&hide_border=true&bg_color=00000000&title_color=0f172a&text_color=475569&icon_color=2563eb" height="160" alt="Cumulative GitHub statistics" />
+</p>
 
 <p align="center">
   <img src="assets/contribution-summary.svg" width="100%" alt="Cumulative public contribution summary: 201 public commits, 149 commits in public pull requests, 45 public pull requests, and 44 merged public pull requests." />
