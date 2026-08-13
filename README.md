@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+reliable+AI+systems+from+GPU+kernels+to+real-world+applications;Open-source+contributor+to+the+PaddlePaddle+ecosystem" alt="Professional introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Reliable+AI+systems%3A+from+GPU+kernels+to+real-world+applications;Researching+medical+image+processing+and+AI-assisted+healthcare" alt="Professional introduction" />
 </p>
 
 <br>
@@ -20,7 +20,7 @@
     <td width="58%" valign="middle">
       <h2>Hi, I'm Wu Yuhan.</h2>
       <p>
-        I am a Biomedical Engineering graduate student at <b>Beijing Institute of Technology</b>, interested in dependable deep-learning systems and applied medical AI.
+        I am a Biomedical Engineering graduate student at <b>Beijing Institute of Technology</b>, in the School of Medical Technology. I work across dependable deep-learning systems and applied medical AI.
       </p>
       <p>
         My hands-on work spans <b>CUDA kernel debugging</b>, <b>large-tensor reliability</b>, and <b>API compatibility / regression engineering</b> in the PaddlePaddle ecosystem.
@@ -38,10 +38,34 @@
 <br>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/45-Public%20PRs-1d4ed8?style=for-the-badge" alt="45 public pull requests" />
   <img src="https://img.shields.io/badge/44-Merged%20public%20PRs-1d4ed8?style=for-the-badge" alt="44 merged public PRs" />
   <img src="https://img.shields.io/badge/2-Merged%20PaddlePaddle%20core%20fixes-0891b2?style=for-the-badge" alt="2 merged PaddlePaddle core fixes" />
   <img src="https://img.shields.io/badge/41-Merged%20API%20testing%20PRs-0f766e?style=for-the-badge" alt="41 merged API testing PRs" />
 </p>
+
+## Contribution Workload
+
+<p align="center">
+  <img src="assets/contribution-workload.svg" width="100%" alt="Bar chart showing 44 merged public pull requests: 41 in PFCCLab PaddleAPITest, 2 in PaddlePaddle Paddle, and 1 in PaddlePaddle docs." />
+</p>
+
+<p align="center">
+  <sub>Public GitHub PR record: 45 submitted, 44 merged (97.8%). Counts are cumulative and intentionally do not depend on recent activity.</sub>
+</p>
+
+<table>
+  <thead>
+    <tr><th align="left">Contribution stream</th><th align="right">Merged PRs</th><th align="right">Share of merged record</th><th align="left">Evidence</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>API compatibility and regression engineering</td><td align="right">41</td><td align="right">93.2%</td><td><a href="https://github.com/PFCCLab/PaddleAPITest/pulls?q=is%3Apr+author%3Ayuwu46+is%3Aclosed">PFCCLab/PaddleAPITest</a></td></tr>
+    <tr><td>Deep-learning framework / CUDA kernels</td><td align="right">2</td><td align="right">4.5%</td><td><a href="https://github.com/PaddlePaddle/Paddle/pulls?q=is%3Apr+author%3Ayuwu46+is%3Aclosed">PaddlePaddle/Paddle</a></td></tr>
+    <tr><td>Technical documentation</td><td align="right">1</td><td align="right">2.3%</td><td><a href="https://github.com/PaddlePaddle/docs/pull/7058">PaddlePaddle/docs</a></td></tr>
+  </tbody>
+</table>
+
+<sub>Method: counts are grouped from publicly visible PRs authored by <a href="https://github.com/yuwu46">@yuwu46</a>; shares use 44 merged public PRs as the denominator.</sub>
 
 ## Featured Engineering Work
 
@@ -89,6 +113,21 @@
   <img src="https://img.shields.io/badge/Regression%20Testing-0f766e?style=flat-square" alt="Regression Testing" />
 </p>
 
+## Research Direction
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Medical image processing</h3>
+      <p>My academic focus is medical image processing, with particular interest in AI-assisted analysis and segmentation for healthcare applications.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>From research to reliable deployment</h3>
+      <p>I am interested in connecting medical AI research with efficient, dependable deep-learning infrastructure: correct kernels, robust testing, and reproducible execution at scale.</p>
+    </td>
+  </tr>
+</table>
+
 <br>
 
 <table border="0">
@@ -96,7 +135,7 @@
     <td width="50%" valign="top">
       <h2>Career Snapshot</h2>
       <p>🎓 <b>Education</b><br>Graduate Student, Biomedical Engineering<br>Beijing Institute of Technology</p>
-      <p>🔭 <b>Research interest</b><br>Medical image processing, reliable AI systems, and GPU acceleration</p>
+      <p>🔭 <b>Research interest</b><br>Medical image processing · AI-based image segmentation · deep learning in healthcare</p>
       <p>💼 <b>Target roles</b><br>AI Systems · ML Infrastructure · GPU / CUDA Engineering · Applied Medical AI</p>
     </td>
     <td width="50%" valign="top">
