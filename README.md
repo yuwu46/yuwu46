@@ -60,7 +60,29 @@
 ## Toolkit
 
 <p align="center">
-  <img src="assets/toolkit-overview.svg" width="100%" alt="Toolkit overview grouped into Programming and Systems, Deep Learning and Vision, and AI Infrastructure." />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cmake,git,github,linux,docker&theme=dark&perline=7" height="44" alt="Python, C++, CMake, Git, GitHub, Linux, Docker" />
+</p>
+<p align="center">
+  <b>Programming &amp; Systems</b><br>
+  Python · C++ · CMake · Git · GitHub · Linux · Docker · CUDA · Scientific Computing
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark&perline=2" height="44" alt="PyTorch and TensorFlow" />
+</p>
+<p align="center">
+  <b>Deep Learning &amp; Vision</b><br>
+  PyTorch · TensorFlow · PaddlePaddle · Computer Vision · Medical Imaging
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/nvidia/76B900" height="44" alt="NVIDIA" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="44" alt="GitHub Actions and CI" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="44" alt="Docker" />
+</p>
+<p align="center">
+  <b>AI Infrastructure</b><br>
+  GPU Kernels · Model Inference · Framework Reliability · Regression Testing · CI / CD · …
 </p>
 
 <p align="center">

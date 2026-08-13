@@ -14,15 +14,15 @@
       .rule { stroke: #30363d; }
     }
   </style>
-  <text class="title" x="38" y="35">Public PR commits by repository</text>
   <circle cx="190" cy="125" r="70" fill="none" stroke="#e2e8f0" stroke-width="28" />
   <g transform="rotate(-90 190 125)">
     <circle cx="190" cy="125" r="70" fill="none" stroke="#1d4ed8" stroke-width="28" stroke-dasharray="390.1 49.7" />
     <circle cx="190" cy="125" r="70" fill="none" stroke="#0891b2" stroke-width="28" stroke-dasharray="32.5 407.3" stroke-dashoffset="-390.1" />
     <circle cx="190" cy="125" r="70" fill="none" stroke="#0f766e" stroke-width="28" stroke-dasharray="17.7 422.1" stroke-dashoffset="-422.6" />
   </g>
-  <text class="center-label" x="190" y="116" text-anchor="middle">PR commits</text>
-  <text class="center-value" x="190" y="151" text-anchor="middle">149</text>
+  <text class="center-label" x="190" y="105" text-anchor="middle">Public PR</text>
+  <text class="center-label" x="190" y="123" text-anchor="middle">commits</text>
+  <text class="center-value" x="190" y="158" text-anchor="middle">149</text>
   <circle cx="430" cy="78" r="7" fill="#1d4ed8" />
   <text class="label" x="450" y="83">PFCCLab / PaddleAPITest</text>
   <text class="value" x="896" y="83" text-anchor="end">132 · 88.6%</text>
