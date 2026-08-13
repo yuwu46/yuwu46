@@ -1,0 +1,33 @@
+name: Career Metrics
+
+on:
+  schedule:
+    - cron: "0 5 * * 1"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate cumulative GitHub profile metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: yuwu46
+          template: classic
+          base: header, repositories, metadata
+          config_timezone: Asia/Shanghai
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_lines: yes
+          plugin_lines_sections: base
+          plugin_followup: yes
+          plugin_followup_sections: repositories
