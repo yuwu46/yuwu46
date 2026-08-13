@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://github.com/yuwu46"><img src="https://img.shields.io/badge/GitHub-yuwu46-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <a href="https://github.com/yuwu46?tab=repositories"><img src="https://img.shields.io/badge/Open%20source-PaddlePaddle%20contributor-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="PaddlePaddle contributor" /></a>
+  <img src="https://komarev.com/ghpvc/?username=yuwu46&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <p align="center">
