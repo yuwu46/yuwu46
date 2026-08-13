@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="330" viewBox="0 0 960 330" role="img" aria-labelledby="title desc">
+  <title id="title">Distribution of public pull request commits by repository</title>
+  <desc id="desc">Of 149 commits in public pull requests, 132 or 88.6 percent are in PFCCLab PaddleAPITest, 11 or 7.4 percent are in PaddlePaddle Paddle, and 6 or 4.0 percent are in PaddlePaddle docs.</desc>
+  <defs>
+    <linearGradient id="glass" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".70" />
+      <stop offset="1" stop-color="#dbeafe" stop-opacity=".30" />
+    </linearGradient>
+  </defs>
+  <style>
+    .surface { fill: url(#glass); stroke: #cbd5e1; stroke-width: 1; }
+    .title { fill: #0f172a; font: 600 20px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .subtitle, .label { fill: #475569; font: 14px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .value { fill: #0f172a; font: 600 15px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .center-label { fill: #64748b; font: 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .center-value { fill: #0f172a; font: 600 33px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .surface { fill: #161b22; fill-opacity: .82; stroke: #30363d; }
+      .title, .value, .center-value { fill: #e6edf3; }
+      .subtitle, .label, .center-label { fill: #8b949e; }
+    }
+  </style>
+  <rect class="surface" x="14" y="14" width="932" height="302" rx="16" />
+  <text class="title" x="42" y="52">Public PR commits by repository</text>
+  <text class="subtitle" x="42" y="76">Cumulative distribution · n = 149 commits</text>
+  <circle cx="242" cy="190" r="94" fill="none" stroke="#e2e8f0" stroke-width="36" />
+  <g transform="rotate(-90 242 190)">
+    <circle cx="242" cy="190" r="94" fill="none" stroke="#1d4ed8" stroke-width="36" stroke-dasharray="523.1 67.5" stroke-dashoffset="0" />
+    <circle cx="242" cy="190" r="94" fill="none" stroke="#0891b2" stroke-width="36" stroke-dasharray="43.6 547.0" stroke-dashoffset="-523.1" />
+    <circle cx="242" cy="190" r="94" fill="none" stroke="#0f766e" stroke-width="36" stroke-dasharray="23.8 566.8" stroke-dashoffset="-566.7" />
+  </g>
+  <text class="center-label" x="242" y="181" text-anchor="middle">PR commits</text>
+  <text class="center-value" x="242" y="216" text-anchor="middle">149</text>
+  <circle cx="427" cy="137" r="7" fill="#1d4ed8" />
+  <text class="label" x="445" y="142">PFCCLab / PaddleAPITest</text>
+  <text class="value" x="798" y="142" text-anchor="end">132 · 88.6%</text>
+  <line x1="427" y1="162" x2="798" y2="162" stroke="#cbd5e1" stroke-width="1" />
+  <circle cx="427" cy="194" r="7" fill="#0891b2" />
+  <text class="label" x="445" y="199">PaddlePaddle / Paddle</text>
+  <text class="value" x="798" y="199" text-anchor="end">11 · 7.4%</text>
+  <line x1="427" y1="219" x2="798" y2="219" stroke="#cbd5e1" stroke-width="1" />
+  <circle cx="427" cy="251" r="7" fill="#0f766e" />
+  <text class="label" x="445" y="256">PaddlePaddle / docs</text>
+  <text class="value" x="798" y="256" text-anchor="end">6 · 4.0%</text>
+  <text class="subtitle" x="42" y="292">Source: publicly visible pull requests authored by @yuwu46.</text>
+</svg>

@@ -1,23 +1,34 @@
 <!-- PROFILE README | yuwu46 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:06b6d4&height=250&section=header&text=AI%20Infra&fontSize=62&fontColor=ffffff&fontAlignY=37&desc=Deep%20Learning%20Frameworks%20%C2%B7%20GPU%20Kernels%20%C2%B7%20Reliable%20AI%20Systems&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="AI infrastructure" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:06b6d4&height=180&section=header&text=Engineering%20%C3%97%20Research&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=AI%20Infra%20%C2%B7%20Medical%20Image%20Processing%20%C2%B7%20AI-Assisted%20Healthcare&descSize=15&descAlignY=62&animation=fadeIn" width="100%" alt="Engineering and research" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/yuwu46"><img src="https://img.shields.io/badge/GitHub-yuwu46-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/yuwu46?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-PaddlePaddle%20Contributor-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Open-source contributor" /></a>
+  <a href="https://github.com/yuwu46"><img src="https://img.shields.io/badge/GitHub-yuwu46-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://github.com/yuwu46?tab=repositories"><img src="https://img.shields.io/badge/Open%20source-PaddlePaddle%20contributor-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="PaddlePaddle contributor" /></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+reliable+AI+infrastructure%3A+from+GPU+kernels+to+framework+compatibility;Researching+medical+image+processing+and+AI-assisted+healthcare" alt="Professional introduction" />
-</p>
-
-<br>
-
-## Focus
-
-I am a Biomedical Engineering graduate student at <b>Beijing Institute of Technology, School of Medical Technology</b>. My research interest is medical image processing and AI-assisted image segmentation. My open-source work focuses on AI infrastructure: GPU kernel correctness, large-tensor execution, operator compatibility, and regression testing in the PaddlePaddle ecosystem.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Research</h3>
+      <ul>
+        <li>🎓 Graduate student at Beijing Institute of Technology</li>
+        <li>🏥 School of Medical Technology · Biomedical Engineering</li>
+        <li>🔬 Medical image processing and AI-assisted image segmentation</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Engineering</h3>
+      <ul>
+        <li>⚙️ AI infrastructure: framework reliability and operator compatibility</li>
+        <li>🧩 CUDA kernel debugging and large-tensor correctness</li>
+        <li>🧪 Regression testing for dependable deep-learning execution</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Cumulative Contribution Record
 
@@ -26,45 +37,26 @@ I am a Biomedical Engineering graduate student at <b>Beijing Institute of Techno
 </p>
 
 <p align="center">
-  <img src="assets/contribution-workload.svg" width="100%" alt="Bar chart showing 149 commits in 45 public pull requests: 132 in PFCCLab PaddleAPITest, 11 in PaddlePaddle Paddle, and 6 in PaddlePaddle docs." />
+  <img src="assets/contribution-distribution.svg" width="100%" alt="Donut chart showing the distribution of 149 public pull request commits: 132 in PFCCLab PaddleAPITest, 11 in PaddlePaddle Paddle, and 6 in PaddlePaddle docs." />
 </p>
 
 <p align="center">
-  <sub>Public GitHub record: 201 commits in GitHub Metrics; 149 commits across 45 public PRs, of which 44 were merged.</sub>
+  <sub>Commit counts are cumulative. The PR subset includes 149 commits across 45 public PRs; 44 PRs were merged.</sub>
 </p>
 
-<table>
-  <thead>
-    <tr><th align="left">Contribution stream</th><th align="right">PR commits</th><th align="right">Public PRs</th><th align="left">Evidence</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>API compatibility and regression engineering</td><td align="right">132</td><td align="right">42</td><td><a href="https://github.com/PFCCLab/PaddleAPITest/pulls?q=is%3Apr+author%3Ayuwu46+is%3Aclosed">PFCCLab/PaddleAPITest</a></td></tr>
-    <tr><td>Deep-learning framework / CUDA kernels</td><td align="right">11</td><td align="right">2</td><td><a href="https://github.com/PaddlePaddle/Paddle/pulls?q=is%3Apr+author%3Ayuwu46+is%3Aclosed">PaddlePaddle/Paddle</a></td></tr>
-    <tr><td>Technical documentation</td><td align="right">6</td><td align="right">1</td><td><a href="https://github.com/PaddlePaddle/docs/pull/7058">PaddlePaddle/docs</a></td></tr>
-  </tbody>
-</table>
-
-<sub>Method: PR-commit counts are the sum of commits attached to publicly visible PRs authored by <a href="https://github.com/yuwu46">@yuwu46</a>. The 201-commit figure is the current cumulative value generated by this profile's GitHub Metrics workflow.</sub>
-
-## Featured Engineering Work
+## Selected Engineering Work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/PaddlePaddle/Paddle/pull/73537">
-        <img src="https://img.shields.io/badge/PaddlePaddle%20Core-PR%20%2373537-1d4ed8?style=for-the-badge&logo=github&logoColor=white" alt="PaddlePaddle PR 73537" />
-      </a>
+      <a href="https://github.com/PaddlePaddle/Paddle/pull/73537"><img src="https://img.shields.io/badge/PaddlePaddle%20Core-PR%20%2373537-1d4ed8?style=for-the-badge&logo=github&logoColor=white" alt="PaddlePaddle PR 73537" /></a>
       <h3>Large-tensor <code>paddle.mv</code> reliability</h3>
-      <p>Diagnosed integer overflow when <code>m * n</code> exceeded the <code>int</code> range, avoiding invalid GPU kernel-launch configuration and runtime errors. Updated the gradient-kernel path and verified accuracy behavior.</p>
-      <p><b>Focus:</b> CUDA · C++ · GPU kernels · numerical correctness</p>
+      <p>Fixed integer overflow that led to invalid GPU kernel-launch configuration and runtime errors when <code>m * n</code> exceeded the <code>int</code> range.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/PaddlePaddle/Paddle/pull/73174">
-        <img src="https://img.shields.io/badge/PaddlePaddle%20Core-PR%20%2373174-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="PaddlePaddle PR 73174" />
-      </a>
+      <a href="https://github.com/PaddlePaddle/Paddle/pull/73174"><img src="https://img.shields.io/badge/PaddlePaddle%20Core-PR%20%2373174-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="PaddlePaddle PR 73174" /></a>
       <h3>Large-tensor <code>paddle.mode</code> CUDA fix</h3>
-      <p>Resolved a reproducible CUDA error (700) under large-tensor execution across kernel helper logic and GPU gradient code.</p>
-      <p><b>Focus:</b> CUDA debugging · large-scale execution · framework engineering</p>
+      <p>Resolved CUDA error (700) under large-tensor execution across kernel helper logic and GPU gradient code.</p>
     </td>
   </tr>
 </table>
@@ -78,21 +70,11 @@ I am a Biomedical Engineering graduate student at <b>Beijing Institute of Techno
 <p align="center">
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
   <img src="https://img.shields.io/badge/PaddlePaddle-0062B0?style=flat-square&logo=paddlepaddle&logoColor=white" alt="PaddlePaddle" />
-  <img src="https://img.shields.io/badge/Deep%20Learning%20Frameworks-1e3a8a?style=flat-square" alt="Deep Learning Frameworks" />
-  <img src="https://img.shields.io/badge/Medical%20Imaging-0ea5e9?style=flat-square" alt="Medical Imaging" />
-  <img src="https://img.shields.io/badge/Regression%20Testing-0f766e?style=flat-square" alt="Regression Testing" />
+  <img src="https://img.shields.io/badge/AI%20Infra-1d4ed8?style=flat-square" alt="AI infrastructure" />
+  <img src="https://img.shields.io/badge/Medical%20Imaging-0ea5e9?style=flat-square" alt="Medical imaging" />
+  <img src="https://img.shields.io/badge/Regression%20Testing-0f766e?style=flat-square" alt="Regression testing" />
 </p>
 
-<details>
-  <summary><b>View cumulative GitHub metrics</b></summary>
-  <br>
-  <img src="/career-metrics.svg" width="100%" alt="Cumulative GitHub metrics" />
-  <br>
-  This optional card is generated weekly by the included workflow and presents cumulative code, repository, language, and contribution data - not a recent-activity feed.
-</details>
-
-<br>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:06b6d4&height=105&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:06b6d4&height=90&section=footer" width="100%" alt="Footer" />
 </p>

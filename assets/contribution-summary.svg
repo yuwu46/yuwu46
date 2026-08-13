@@ -14,7 +14,7 @@
       .rule { stroke: #30363d; }
     }
   </style>
-  <rect class="bg" x="0" y="0" width="960" height="180" rx="12" />
+  <rect class="bg" x="0" y="0" width="960" height="180" rx="16" />
   <text class="title" x="38" y="42">Cumulative public contribution record</text>
   <line class="rule" x1="240" y1="68" x2="240" y2="150" />
   <line class="rule" x1="480" y1="68" x2="480" y2="150" />
