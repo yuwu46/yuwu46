@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
   <title id="title">Distribution of public pull request commits by repository</title>
   <desc id="desc">Of 149 commits in public pull requests, 132 or 88.6 percent are in PFCCLab PaddleAPITest, 11 or 7.4 percent are in PaddlePaddle Paddle, and 6 or 4.0 percent are in PaddlePaddle docs.</desc>
   <defs>
@@ -22,26 +22,25 @@
       .rule { stroke: #30363d; }
     }
   </style>
-  <rect class="surface" x="14" y="14" width="932" height="252" rx="16" />
+  <rect class="surface" x="14" y="14" width="932" height="212" rx="16" />
   <text class="title" x="42" y="50">Public PR commits by repository</text>
-  <text class="subtitle" x="42" y="74">Cumulative distribution · n = 149 commits</text>
-  <circle cx="218" cy="158" r="77" fill="none" stroke="#e2e8f0" stroke-width="30" />
-  <g transform="rotate(-90 218 158)">
-    <circle cx="218" cy="158" r="77" fill="none" stroke="#1d4ed8" stroke-width="30" stroke-dasharray="428.9 54.9" />
-    <circle cx="218" cy="158" r="77" fill="none" stroke="#0891b2" stroke-width="30" stroke-dasharray="35.8 448.0" stroke-dashoffset="-428.9" />
-    <circle cx="218" cy="158" r="77" fill="none" stroke="#0f766e" stroke-width="30" stroke-dasharray="19.5 464.3" stroke-dashoffset="-464.7" />
+  <circle cx="202" cy="139" r="70" fill="none" stroke="#e2e8f0" stroke-width="28" />
+  <g transform="rotate(-90 202 139)">
+    <circle cx="202" cy="139" r="70" fill="none" stroke="#1d4ed8" stroke-width="28" stroke-dasharray="390.1 49.7" />
+    <circle cx="202" cy="139" r="70" fill="none" stroke="#0891b2" stroke-width="28" stroke-dasharray="32.5 407.3" stroke-dashoffset="-390.1" />
+    <circle cx="202" cy="139" r="70" fill="none" stroke="#0f766e" stroke-width="28" stroke-dasharray="17.7 422.1" stroke-dashoffset="-422.6" />
   </g>
-  <text class="center-label" x="218" y="149" text-anchor="middle">PR commits</text>
-  <text class="center-value" x="218" y="184" text-anchor="middle">149</text>
-  <circle cx="396" cy="111" r="7" fill="#1d4ed8" />
-  <text class="label" x="416" y="116">PFCCLab / PaddleAPITest</text>
-  <text class="value" x="860" y="116" text-anchor="end">132 commits · 88.6%</text>
-  <line class="rule" x1="396" y1="136" x2="860" y2="136" />
-  <circle cx="396" cy="164" r="7" fill="#0891b2" />
-  <text class="label" x="416" y="169">PaddlePaddle / Paddle</text>
-  <text class="value" x="860" y="169" text-anchor="end">11 commits · 7.4%</text>
-  <line class="rule" x1="396" y1="189" x2="860" y2="189" />
-  <circle cx="396" cy="217" r="7" fill="#0f766e" />
-  <text class="label" x="416" y="222">PaddlePaddle / docs</text>
-  <text class="value" x="860" y="222" text-anchor="end">6 commits · 4.0%</text>
+  <text class="center-label" x="202" y="130" text-anchor="middle">PR commits</text>
+  <text class="center-value" x="202" y="165" text-anchor="middle">149</text>
+  <circle cx="438" cy="92" r="7" fill="#1d4ed8" />
+  <text class="label" x="458" y="97">PFCCLab / PaddleAPITest</text>
+  <text class="value" x="872" y="97" text-anchor="end">132 commits · 88.6%</text>
+  <line class="rule" x1="438" y1="117" x2="872" y2="117" />
+  <circle cx="438" cy="141" r="7" fill="#0891b2" />
+  <text class="label" x="458" y="146">PaddlePaddle / Paddle</text>
+  <text class="value" x="872" y="146" text-anchor="end">11 commits · 7.4%</text>
+  <line class="rule" x1="438" y1="166" x2="872" y2="166" />
+  <circle cx="438" cy="190" r="7" fill="#0f766e" />
+  <text class="label" x="458" y="195">PaddlePaddle / docs</text>
+  <text class="value" x="872" y="195" text-anchor="end">6 commits · 4.0%</text>
 </svg>

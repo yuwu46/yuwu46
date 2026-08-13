@@ -40,10 +40,6 @@
   <img src="assets/contribution-distribution.svg" width="100%" alt="Donut chart showing the distribution of 149 public pull request commits: 132 in PFCCLab PaddleAPITest, 11 in PaddlePaddle Paddle, and 6 in PaddlePaddle docs." />
 </p>
 
-<p align="center">
-  <sub>Commit counts are cumulative. The PR subset includes 149 commits across 45 public PRs; 44 PRs were merged.</sub>
-</p>
-
 ## Selected Engineering Work
 
 <table>
@@ -63,22 +59,30 @@
 
 ## Toolkit
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,cmake,git,github,linux,docker&theme=dark" alt="Python, C++, PyTorch, TensorFlow, CMake, Git, GitHub, Linux, Docker" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
-  <img src="https://img.shields.io/badge/PaddlePaddle-0062B0?style=flat-square&logo=paddlepaddle&logoColor=white" alt="PaddlePaddle" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-5B21B6?style=flat-square" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-7C3AED?style=flat-square" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Model%20Inference-2563EB?style=flat-square" alt="Model Inference" />
-  <img src="https://img.shields.io/badge/Scientific%20Computing-0F766E?style=flat-square" alt="Scientific Computing" />
-  <img src="https://img.shields.io/badge/AI%20Infra-1d4ed8?style=flat-square" alt="AI infrastructure" />
-  <img src="https://img.shields.io/badge/Medical%20Imaging-0ea5e9?style=flat-square" alt="Medical imaging" />
-  <img src="https://img.shields.io/badge/Regression%20Testing-0f766e?style=flat-square" alt="Regression testing" />
-  <img src="https://img.shields.io/badge/%E2%80%A6-64748B?style=flat-square" alt="More technologies" />
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Programming &amp; Systems</b><br><br>
+      <img src="https://skillicons.dev/icons?i=python,cpp,cmake,git,github,linux,docker&theme=dark" alt="Python, C++, CMake, Git, GitHub, Linux, Docker" /><br><br>
+      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+      <img src="https://img.shields.io/badge/Scientific%20Computing-0F766E?style=flat-square" alt="Scientific Computing" />
+    </td>
+    <td width="33%" valign="top">
+      <b>Deep Learning &amp; Vision</b><br><br>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="PyTorch and TensorFlow" /><br><br>
+      <img src="https://img.shields.io/badge/PaddlePaddle-0062B0?style=flat-square&logo=paddlepaddle&logoColor=white" alt="PaddlePaddle" />
+      <img src="https://img.shields.io/badge/Computer%20Vision-7C3AED?style=flat-square" alt="Computer Vision" /><br>
+      <img src="https://img.shields.io/badge/Medical%20Imaging-0ea5e9?style=flat-square" alt="Medical Imaging" />
+    </td>
+    <td width="33%" valign="top">
+      <b>AI Infrastructure</b><br><br>
+      <img src="https://img.shields.io/badge/Model%20Inference-2563EB?style=flat-square" alt="Model Inference" />
+      <img src="https://img.shields.io/badge/Regression%20Testing-0f766e?style=flat-square" alt="Regression Testing" /><br><br>
+      <img src="https://img.shields.io/badge/Framework%20Reliability-1d4ed8?style=flat-square" alt="Framework Reliability" />
+      <img src="https://img.shields.io/badge/%E2%80%A6-64748B?style=flat-square" alt="More technologies" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:06b6d4&height=64&section=footer" width="100%" alt="Footer" />
